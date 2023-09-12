@@ -1,0 +1,14 @@
+presentation due wed
+code & report due fri
+
+
+use original spreadsheet
+predictive analysis
+
+histogram
+    popularity vs genre
+
+take the popularity score and compare genres average popularity score
+
+
+take all values and use them to predict statistically what makes a popular track
